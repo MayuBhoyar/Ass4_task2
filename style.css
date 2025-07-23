@@ -9,7 +9,7 @@ html,body{
     border: 1px solid black;
 }
 .container{
-    background-image: url(images/car.png);
+    background-image: url(car.png);
     height: 100%;
     width: 100%;
     text-align: end;
